@@ -78,18 +78,14 @@ Training data with regression line
 
 Test data with predicted results
 
-
 Technologies Used
 
-1.Python 🐍
-
-2.Pandas – Data manipulation
-
-3.NumPy – Numerical computations
-
-4.Matplotlib / Seaborn – Visualization
-
-5.Scikit-Learn – Machine Learning library
+Tool	Purpose
+🐍 Python	Programming Language
+📦 Pandas	Data manipulation
+🔢 NumPy	Numerical computation
+📊 Matplotlib / Seaborn	Data visualization
+🤖 Scikit-Learn	Machine Learning
 
 Project Structure
 Salary_Prediction_Linear_Regression/
